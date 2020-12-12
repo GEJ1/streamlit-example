@@ -3,6 +3,12 @@ import altair as alt
 import math
 import pandas as pd
 import streamlit as st
+import nltk
+nltk.download('stopwords')
+from nltk.corpus import stopwords
+
+# Initialize the stopwords in spanish
+stop_words = stopwords.words('spanish')
 
 """
 # Probando!
