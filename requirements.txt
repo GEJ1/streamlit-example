@@ -1,3 +1,13 @@
 altair
 pandas
 streamlit
+wordcloud
+matplotlib
+PIL
+io
+numpy
+os
+requests
+google
+gspread
+nltk
