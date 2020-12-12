@@ -3,13 +3,13 @@ import altair as alt
 import math
 import pandas as pd
 import streamlit as st
-from wordcloud import WordCloud
-import matplotlib.pyplot as plt
-from PIL import Image
-from io import BytesIO
-import numpy as np
-from os import path
-import requests
+# from wordcloud import WordCloud
+# import matplotlib.pyplot as plt
+# from PIL import Image
+# from io import BytesIO
+# import numpy as np
+# from os import path
+# import requests
 
 
 """
